@@ -1,0 +1,1 @@
+print("ikinci dosyayi ekliyoruz")
